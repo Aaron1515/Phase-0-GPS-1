@@ -20,8 +20,9 @@ ls (list files or dir)
 
 cd (change dir)
 
-mkdir [folder name] (to create a new folder)
+mkdir "folder name" (to create a new folder)
 
-touch [file name] (touch to create a new file)
+touch "file name" (touch to create a new file)
 
-subl . (to open sublime in the current folder)
+subl . (to open sublime in the current folder) 
+(2nd part to this is also if you are opening up defalt app you use to edit files. Example is Komodo IDE, if you have it installed.  It will open that app instead if you have another editing apps.)
