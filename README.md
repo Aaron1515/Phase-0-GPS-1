@@ -14,7 +14,7 @@ git status (to check status on change made on repo)
 
 git fetch (to reteve file from origin)
 
-it merge (to merge to master branch or vis versa to origin)
+git merge (to merge to master branch or vis versa to origin)
 
 ls (list files or dir)
 
