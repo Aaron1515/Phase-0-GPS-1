@@ -20,6 +20,8 @@ ls (list files or dir)
 
 cd (change dir)
 
-touch "file name" (touch to create a new file)
+mkdir [folder name] (to create a new folder)
+
+touch [file name] (touch to create a new file)
 
 subl . (to open sublime in the current folder)
